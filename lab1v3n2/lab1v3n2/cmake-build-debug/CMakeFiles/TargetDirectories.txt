@@ -1,0 +1,3 @@
+C:/Users/d0rzh_nys4nbb/Documents/gg/lab1v3n2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/d0rzh_nys4nbb/Documents/gg/lab1v3n2/cmake-build-debug/CMakeFiles/lab1v3n2.dir
+C:/Users/d0rzh_nys4nbb/Documents/gg/lab1v3n2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
